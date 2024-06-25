@@ -1,0 +1,19 @@
+{
+  "fruits": [
+    {
+      "name": "Apple",
+      "price": 100,
+      "image": "apple.png"
+    },
+    {
+      "name": "Orange",
+      "price": 1000,
+      "image": "orange.jpg"
+    },
+    {
+      "name": "Banana",
+      "price": 10,
+      "image": "bannana.png"
+    }
+  ]
+}
