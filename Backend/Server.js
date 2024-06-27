@@ -10,7 +10,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb+srv://Kamesh:doZh8NUxzY0zCliL@cluster0.oocyyrc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
+mongoose.connect('use youe mongo atlas connection string', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
